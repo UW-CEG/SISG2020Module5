@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Summer Institute in Statistical Genetics  
+### Module 5: Regression Methods -- Concepts and Applications 
+### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://http://www.xuritashi.com)
 
-You can use the [editor on GitHub](https://github.com/shixu0830/SISGModule5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### OVERVIEW
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Schedule
 
-### Markdown
+**Wed 7/15**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* On your own: Simple Linear Regression
 
-```markdown
-Syntax highlighted code block
+* 2:00--3:00PT: Questions and lab exercises 1--3
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Thurs 7/16**
 
-1. Numbered
-2. List
+* On your own: Model checking
 
-**Bold** and _Italic_ and `Code` text
+* 11:00--12:00PT: Questions and lab exercises 4--6
 
-[Link](url) and ![Image](src)
-```
+* On your own: Multiple linear regression
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* 2:00--3:00PT: Questions and lab exercises 7--8
 
-### Jekyll Themes
+* On your own: One-way ANOVA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shixu0830/SISGModule5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Fri 7/17**
 
-### Support or Contact
+* On your own: Multiple comparisons and two-way ANOVA
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 11:00--12:30PT: Questions and lab exercises 9--12
+
+* On your own: Logistic regression and generalized linear models
+
+* 2:00--3:00PT: Questions and lab exercises 13--17
+
+
