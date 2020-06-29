@@ -1,6 +1,6 @@
 ## Summer Institute in Statistical Genetics  
 ### Module 5: Regression Methods -- Concepts and Applications 
-### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://http://www.xuritashi.com)
+### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://www.xuritashi.com)
 
 ### OVERVIEW
 
