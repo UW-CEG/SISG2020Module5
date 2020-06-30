@@ -8,9 +8,9 @@
 
 **Wed 7/15**
 
-* On your own: Simple Linear Regression **[Video: part 1](https://youtu.be/wEK9nDqf5lE)  [, part 2](https://youtu.be/yrJLAc3JwNo); [Slides](/slides/1_SimpleLinearRegression.pdf)**
+* On your own: Simple Linear Regression **[Video: part 1](https://youtu.be/wEK9nDqf5lE)[, part 2](https://youtu.be/yrJLAc3JwNo); [Slides](/slides/1_SimpleLinearRegression.pdf)**
 
-* 2:00--3:00PT: Questions and lab exercises 1--3
+* 2:00--3:00PT: Questions and lab exercises 1--3  [Labs](/slides/2020_SISG_5_Labs.pdf)**
 
 
 **Thurs 7/16**
