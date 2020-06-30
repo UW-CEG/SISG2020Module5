@@ -2,7 +2,7 @@
 #### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://www.xuritashi.com)
 
 ### OVERVIEW
-[![Welcome](https://i.ytimg.com/vi/Q4tfbR9jbsg/maxresdefault.jpg)](https://www.youtube.com/embed/Q4tfbR9jbsg)
+[![Welcome](https://i.ytimg.com/vi/Q4tfbR9jbsg/default.jpg)](https://www.youtube.com/embed/Q4tfbR9jbsg)
 
 ### Schedule
 
