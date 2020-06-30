@@ -8,7 +8,7 @@
 
 **Wed 7/15**
 
-* On your own: Simple Linear Regression [Video, part 1](https://youtu.be/wEK9nDqf5lE)  [Video, part 2](https://youtu.be/yrJLAc3JwNo)
+* On your own: Simple Linear Regression [Video part 1](https://youtu.be/wEK9nDqf5lE)  [, part 2](https://youtu.be/yrJLAc3JwNo)
 
 * 2:00--3:00PT: Questions and lab exercises 1--3
 
