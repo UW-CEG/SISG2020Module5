@@ -5,7 +5,7 @@
 [![Welcome](https://i.ytimg.com/vi/Q4tfbR9jbsg/mqdefault.jpg)](https://www.youtube.com/embed/Q4tfbR9jbsg)
 
 ### Overview
-This module consists of a series of pre-recorded lectures that will introduce you to the basic concepts of regression for the analysis of associations between continuous or binary outcome variables and one or more predictor variables. Lectures are available for you to watch on your own and will be followed by interactive sessions in which we will go over any questions that you have and get hands-on experience applying these concepts to the analysis of data using R. Students are asked to watch the recorded lectures in advance of live sessions and work through labs using R. All materials are available through our module website.
+This module consists of a series of pre-recorded lectures that will introduce you to the basic concepts of regression for the analysis of associations between continuous or binary outcome variables and one or more predictor variables. Lectures are available for you to watch on your own and will be followed by interactive sessions in which we will go over any questions that you have and get hands-on experience applying these concepts to the analysis of data using R. Students are asked to **watch the recorded lectures in advance of live sessions and work through labs using R**.
 
 ### Schedule
 
