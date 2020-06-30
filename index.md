@@ -11,18 +11,18 @@ This module consists of a series of pre-recorded lectures that will introduce yo
 
 **Wed 7/15**
 
-* On your own: Simple Linear Regression - Part 1 (**[video](https://www.youtube.com/embed/wEK9nDqf5lE)**, **[slides](/slides/1_SimpleLinearRegression.pdf)**)
-* On your own: Simple Linear Regression - Part 2 (**[video](https://www.youtube.com/embed/yrJLAc3JwNo)**, **[slides](/slides/1_SimpleLinearRegression.pdf)**)
+* On your own: Simple Linear Regression -- Part 1 (**[video](https://www.youtube.com/embed/wEK9nDqf5lE)**, **[slides](/slides/1_SimpleLinearRegression.pdf)**)
+* On your own: Simple Linear Regression -- Part 2 (**[video](https://www.youtube.com/embed/yrJLAc3JwNo)**, **[slides](/slides/1_SimpleLinearRegression.pdf)**)
 * 1:30--2:30PT: Questions and lab exercises 1--3  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
 **Thurs 7/16**
 
-* On your own: Model checking - Part 1 (**[slides](/slides/2_ModelChecking.pdf)**)
-* On your own: Model checking - Part 2 (**[slides](/slides/2_ModelChecking.pdf)**)
+* On your own: Model checking -- Part 1 (**[slides](/slides/2_ModelChecking.pdf)**)
+* On your own: Model checking -- Part 2 (**[slides](/slides/2_ModelChecking.pdf)**)
 * 10:30--11:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: Multiple linear regression - Part 1 (**[slides](/slides/3_MultipleLinearRegression.pdf)**)
-* On your own: Multiple linear regression - Part 2 (**[slides](/slides/3_MultipleLinearRegression.pdf)**)
+* On your own: Multiple linear regression -- Part 1 (**[slides](/slides/3_MultipleLinearRegression.pdf)**)
+* On your own: Multiple linear regression -- Part 2 (**[slides](/slides/3_MultipleLinearRegression.pdf)**)
 * 1:30--2:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
 * On your own: One-way ANOVA
