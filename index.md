@@ -3,6 +3,8 @@
 
 ### OVERVIEW
 
+knitr::include_url("https://youtu.be/yrJLAc3JwNo")
+
 ### Schedule
 
 **Wed 7/15**
