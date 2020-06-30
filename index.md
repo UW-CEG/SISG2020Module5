@@ -8,18 +8,18 @@
 
 **Wed 7/15**
 
-* On your own: Simple Linear Regression **[Video part 1](https://youtu.be/wEK9nDqf5lE)  [, part 2](https://youtu.be/yrJLAc3JwNo) [slides](/slides/1_SimpleLinearRegression.pdf)**
+* On your own: Simple Linear Regression **Video:[ part 1](https://youtu.be/wEK9nDqf5lE)  [, part 2](https://youtu.be/yrJLAc3JwNo); [Slides](/slides/1_SimpleLinearRegression.pdf)**
 
 * 2:00--3:00PT: Questions and lab exercises 1--3
 
 
 **Thurs 7/16**
 
-* On your own: Model checking
+* On your own: Model checking **[Slides](/slides/2_ModelChecking.pdf)**
 
 * 11:00--12:00PT: Questions and lab exercises 4--6
 
-* On your own: Multiple linear regression
+* On your own: Multiple linear regression **[Slides](/slides/3_MultipleLinearRegression.pdf)**
 
 * 2:00--3:00PT: Questions and lab exercises 7--8
 
