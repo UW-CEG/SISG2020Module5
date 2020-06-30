@@ -1,6 +1,5 @@
-## 25th Summer Institute in Statistical Genetics (SISG)  
-### Module 5: Regression Methods -- Concepts and Applications 
-### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://www.xuritashi.com)
+## Module 5: Regression Methods -- Concepts and Applications 
+#### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://www.xuritashi.com)
 
 ### OVERVIEW
 
