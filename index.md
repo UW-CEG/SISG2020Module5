@@ -25,14 +25,16 @@ This module consists of a series of pre-recorded lectures that will introduce yo
 * On your own: Multiple linear regression -- Part 2 (**[slides](/slides/3_MultipleLinearRegression.pdf)**)
 * 1:30 -- 2:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: One-way ANOVA
+* On your own: One-way ANOVA (**[slides](/slides/4_ANOVA_MultipleComparisons.pdf)**)
 
 **Fri 7/17**
 
-* On your own: Multiple comparisons and two-way ANOVA
+* On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[slides](/slides/4_ANOVA_MultipleComparisons.pdf)**)
+* On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[slides](/slides/4_ANOVA_MultipleComparisons.pdf)**)
 * 10:30 -- 12:00PT: Questions and lab exercises 9--12  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: Logistic regression and generalized linear models
+* On your own: Logistic regression and generalized linear models -- Part 1 (**[slides](/slides/5_LogisticRegression.pdf)**)
+* On your own: Logistic regression and generalized linear models -- Part 2 (**[slides](/slides/5_LogisticRegression.pdf)**)
 * 1:30 -- 2:30PT: Questions and lab exercises 13--17  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
 
