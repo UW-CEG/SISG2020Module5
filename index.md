@@ -17,8 +17,10 @@ This module consists of a series of pre-recorded lectures that will introduce yo
 
 **Thurs 7/16**
 
-* On your own: Model checking -- Part 1 (**[slides](/slides/2_ModelChecking.pdf)** pages 1-15)<!---(**[video](https://www.youtube.com/embed/xFq7ie630gw)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-32)---> 
-* On your own: Model checking -- Part 2 (**[slides](/slides/2_ModelChecking.pdf)** pages 15-35)<!---(**[video](https://www.youtube.com/embed/y5PDdHrsoTU)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-32)--->
+* On your own: Model checking -- Part 1 (**[slides](/slides/2_ModelChecking.pdf)** pages 1-15)
+<!---(**[video](https://www.youtube.com/embed/xFq7ie630gw)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-32)---> 
+* On your own: Model checking -- Part 2 (**[slides](/slides/2_ModelChecking.pdf)** pages 15-35)
+<!---(**[video](https://www.youtube.com/embed/y5PDdHrsoTU)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-32)--->
 * 10:30 -- 11:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
 * On your own: Multiple linear regression -- Part 1 (**[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)<!---(**[video](https://www.youtube.com/embed/xOyBkKhVyyI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-32)--->
