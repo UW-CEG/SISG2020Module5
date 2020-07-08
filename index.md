@@ -11,7 +11,7 @@ This module consists of a series of pre-recorded lectures that will introduce yo
 
 **Wed 7/15**
 
-</* On your own: Simple Linear Regression -- Part 1 (**[video](https://www.youtube.com/embed/wEK9nDqf5lE)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)/>
+* On your own: Simple Linear Regression -- Part 1 (**[video](https://www.youtube.com/embed/wEK9nDqf5lE)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
 * On your own: Simple Linear Regression -- Part 2 (**[video](https://www.youtube.com/embed/yrJLAc3JwNo)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 32-58)
 * 1:30 -- 2:30PT: Questions and lab exercises 1--3  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
