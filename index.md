@@ -1,5 +1,5 @@
 ## Module 5: Regression Methods -- Concepts and Applications 
-#### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) and [Xu Shi, PhD](https://www.xuritashi.com)
+#### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) (she/her/hers) and [Xu Shi, PhD](https://www.xuritashi.com) (she/her/hers)
 
 ### Welcome
 [![Overview](https://i.ytimg.com/vi/TLyE1vfrfIY/mqdefault.jpg)](https://www.youtube.com/embed/TLyE1vfrfIY)
