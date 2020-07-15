@@ -17,24 +17,24 @@ This module consists of a series of pre-recorded lectures that will introduce yo
 
 **Thurs 7/16**
 
-* On your own: Model checking -- Part 1 (**[video](https://www.youtube.com/embed/xFq7ie630gw)**, **[slides](/slides/2_ModelChecking.pdf)**)
-* On your own: Model checking -- Part 2 (**[video](https://www.youtube.com/embed/y5PDdHrsoTU)**, **[slides](/slides/2_ModelChecking.pdf)**)
+* On your own: Model checking -- Part 1 (**[video](https://www.youtube.com/embed/xFq7ie630gw)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-15)
+* On your own: Model checking -- Part 2 (**[video](https://www.youtube.com/embed/y5PDdHrsoTU)**, **[slides](/slides/2_ModelChecking.pdf)** pages 15-35)
 * 10:30 -- 11:30PT: Questions and lab exercises 4--6  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: Multiple linear regression -- Part 1 (**[video](https://www.youtube.com/embed/xOyBkKhVyyI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)**)
-* On your own: Multiple linear regression -- Part 2 (**[video](https://www.youtube.com/embed/ioBIE2Kid-c)**, **[slides](/slides/3_MultipleLinearRegression.pdf)**)
+* On your own: Multiple linear regression -- Part 1 (**[video](https://www.youtube.com/embed/xOyBkKhVyyI)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 1-24)
+* On your own: Multiple linear regression -- Part 2 (**[video](https://www.youtube.com/embed/ioBIE2Kid-c)**, **[slides](/slides/3_MultipleLinearRegression.pdf)** pages 24-49)
 * 1:30 -- 2:30PT: Questions and lab exercises 7--8  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: One-way ANOVA (**[video](https://www.youtube.com/embed/rT0rjhS-Uio)**, **[slides](/slides/4_OneWayANOVA.pdf)**)
+* On your own: One-way ANOVA (**[video](https://www.youtube.com/embed/rT0rjhS-Uio)**, **[slides](/slides/4_OneWayANOVA.pdf)** pages 1-44)
 
 **Fri 7/17**
 
-* On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video](https://www.youtube.com/embed/vuF5xCVwYMs)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)**)
-* On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video](https://www.youtube.com/embed/d5VKevXTRmg)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)**)
+* On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video](https://www.youtube.com/embed/vuF5xCVwYMs)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 45-68)
+* On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video](https://www.youtube.com/embed/d5VKevXTRmg)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 68-93)
 * 10:30 -- 12:00PT: Questions and lab exercises 9--12  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
-* On your own: Logistic regression and generalized linear models -- Part 1 (**[video](https://www.youtube.com/embed/w-8D4GhHY60)**, **[slides](/slides/6_LogisticRegression.pdf)**)
-* On your own: Logistic regression and generalized linear models -- Part 2 (**[video](https://www.youtube.com/embed/uqCASD3TJ2c)**, **[slides](/slides/6_LogisticRegression.pdf)**)
+* On your own: Logistic regression and generalized linear models -- Part 1 (**[video](https://www.youtube.com/embed/w-8D4GhHY60)**, **[slides](/slides/6_LogisticRegression.pdf)** pages 1-30)
+* On your own: Logistic regression and generalized linear models -- Part 2 (**[video](https://www.youtube.com/embed/uqCASD3TJ2c)**, **[slides](/slides/6_LogisticRegression.pdf)** pages 31-56)
 * 1:30 -- 2:30PT: Questions and lab exercises 13--17  (**[labs](/slides/2020_SISG_5_Labs.pdf)**, **[solutions](/slides/2020_SISG_5_Labs_Solutions.pdf)**)
 
 
