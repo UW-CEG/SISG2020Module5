@@ -5,9 +5,9 @@ cholesterol = read.csv("https://raw.githubusercontent.com/rhubb/SISG2020/master/
 attach(cholesterol)
 
 ## Install and load R packages
-install.packages("multcomp")
-install.packages("lmtest")
-install.packages("sandwich")
+#install.packages("multcomp")
+#install.packages("lmtest")
+#install.packages("sandwich")
 library(multcomp)
 library(lmtest)
 library(sandwich)
@@ -44,6 +44,7 @@ summary(fit1)$r.squared
 #5
 # Scatterplot of triglycerides vs BMI
 plot(TG ~ BMI, xlab = "BMI (kg/m2)", ylab = "Triglycerides (mg/dl)")
+lines(BMI, fit1$fitted.values)
 
 # Identify observations with BMI <=37
 bmi37 = which(BMI<=37)
@@ -57,6 +58,7 @@ fit2 = lm(TG[bmi37] ~ BMI[bmi37])
 summary(fit2)
 
 #6.
+par(mfrow = c(1,2))
 # Plot residuals vs fitted values
 plot(fit1$fitted, fit1$residuals,xlab="Fitted values",ylab="Residuals")
 abline(0,0)
