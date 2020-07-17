@@ -124,6 +124,7 @@ tapply(chol, factor(rs4775401), sd)
 fit1 = lm(chol ~ factor(rs4775401))
 summary(fit1)
 anova(fit1)
+## poll question here
 
 # One-way ANOVA (not assuming equal variances)
 oneway.test(chol ~ factor(rs4775401))
