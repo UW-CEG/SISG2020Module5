@@ -87,14 +87,14 @@ APOE4 = ifelse(APOE %in% c(3,5,6), 1, 0)
 
 ## Linear regression analyses for association of APOE4 and BMI with TG
 # multiple linear regression of triglycerides on BMI and APOE4
-fit3=lm(TG~BMI+APOE4)
+fit3=lm(TG~BMI+factor(APOE4))
 summary(fit3)
 
 #8
 # scatterplot with subjects stratified by APOE4
 par(mfrow = c(1,1))
 plot(BMI[APOE4 == 0], TG[APOE4 == 0], pch = 1, col=75,xlab = "BMI (kg/m2)", ylab = "Triglycerides (mg/dl)")
-points(BMI[APOE4 == 1], TG[APOE4 == 1], pch = 1, col=34)
+points(BMI[APOE4 == 1], TG[APOE4 == 1], pch = 2, col=34)
 
 # multiple linear regression of triglycerides on BMI, APOE4, and interaction
 fit4 = lm(TG ~ BMI*APOE4)
@@ -195,6 +195,7 @@ exp(glm.mod3$coef)
 exp(confint(glm.mod3))
 
 lrtest(glm.mod2,glm.mod3)
+## poll question here
 
 #16.
 # relative risk regression for the association between rs174548 and hypertension
