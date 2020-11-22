@@ -1,0 +1,5 @@
+# SISG2020Module5
+
+Regression Labs borrowed from the SISG 2020 Workshops
+
+Data for the labs can be copied from the CEG Data Library:
